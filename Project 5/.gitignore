@@ -1,7 +1,11 @@
 *.txt
 *.tar.gz
 *.tar
+<<<<<<< HEAD
 /data/train/part2/nmf.pkl
 /data/train/part2/lsi.pkl
 /data/train/part2/tfidf.pkl
 /data/train/part1/*.pkl
+=======
+/data/
+>>>>>>> 16c96b850a10565d7694f8cd213a2ea454f2cfc0
